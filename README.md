@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk memfasilitasi pengguna dalam mengelola catatan sederh
 
 ## Instalasi
 
-Pastikan Anda telah menginstal Node.js di komputer Anda sebelum menggunakan aplikasi ini.
+install node.js
 
 ### Langkah-langkah Instalasi:
 
