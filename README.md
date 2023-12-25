@@ -53,7 +53,7 @@ Gunakan perintah `node app.js [command] [options]` untuk berinteraksi dengan apl
 
 Jika Anda memiliki pertanyaan atau umpan balik, jangan ragu untuk menghubungi:
 
-- Email: fathur021@email.com
+- Email: fathur00013@gmail.com
 
 
 ---
